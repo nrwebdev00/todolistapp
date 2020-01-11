@@ -14,26 +14,6 @@ class App extends Component {
         name: "Clean kitchen",
         isCompleted: true,
         isEditing: false
-      },
-      {
-        name: "Clean the Living Room",
-        isCompleted: false,
-        isEditing: false
-      },
-      {
-        name: "Clean the bathroom",
-        isCompleted: true,
-        isEditing: false
-      },
-      {
-        name: "Clean the Bedroom",
-        isCompleted: false,
-        isEditing: false
-      },
-      {
-        name: "Treehouse work",
-        isCompleted: true,
-        isEditing: false
       }
     ]
   }
