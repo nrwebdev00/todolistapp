@@ -11,8 +11,8 @@ class App extends Component {
     pendingTask: "",
     task: [
       {
-        name: "Clean kitchen",
-        isCompleted: true,
+        name: "Sample Task",
+        isCompleted: false,
         isEditing: false
       }
     ]
